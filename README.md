@@ -42,5 +42,5 @@
 - HTML & CSS basics  
 - Arrays, loops, and data flow logic  
 - Git and GitHub usage  
-<img width="1917" height="897" alt="Screenshot 2026-01-09 153619" src="https://github.com/user-attachments/assets/8728be04-7a70-41bf-a1ec-fb9997b3177d" />
-<img width="1919" height="903" alt="Screenshot 2026-01-09 153548" src="https://github.com/user-attachments/assets/26ed42b1-0d92-4662-87e7-934d2153945e" />
+<img width="1917" height="897" alt="Screenshot 2026-01-09 153619" src="https://github.com/user-attachments/assets/a76299fa-7c0d-49bc-b73a-5f0903674ad5" />
+<img width="1910" height="894" alt="Screenshot 2026-01-09 161702" src="https://github.com/user-attachments/assets/813a4fd4-60e3-4e11-a0ed-2c3b9c74d050" />
