@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/stylesheets/style.css">
+</head>
+<body>
+    <h1>Your All Quotes Is Here!</h1>
+    <h3>Thank you for submitting your quote. Please see all your quotes below:</h3>
+    <% if (quotes.length === 0) { %>
+        <p>No quotes submitted yet!</p>
+    <% } else { %>
+        
+            <% quotes.forEach( (q, index)=> { %>
+                <p><strong><%= index + 1 %>:</strong>
+               <%= q %></p>
+            <% }); %>
+            <% } %>
+            <br>
+            <a href="/">Submit Another Quote</a>
+
+</body>
+</html>
